@@ -1,0 +1,1 @@
+# stof_for_hard_lecture
