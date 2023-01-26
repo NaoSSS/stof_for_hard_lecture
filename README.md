@@ -1,1 +1,3 @@
 # stof_for_hard_lecture
+
+turtlebot側でpublishしたメッセージがremotePCで表示できないので応急処置
